@@ -4,7 +4,7 @@ import image1 from "../assets/image1.jpg";
 import image2 from "../assets/image2.jpg";
 import { IoMdArrowBack } from "react-icons/io";
 import { CiImageOn } from "react-icons/ci";
-import { UserDataContext } from "../context/userContext";
+import { UserDataContext } from "../context/UserContext";
 import { useNavigate } from "react-router-dom";
 
 const Customize = () => {
