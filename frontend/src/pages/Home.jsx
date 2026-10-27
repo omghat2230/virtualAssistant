@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { CiMenuFries } from "react-icons/ci";
 import { RxCross2 } from "react-icons/rx";
-import { UserDataContext } from "../context/userContext";
+import { UserDataContext } from "../context/UserContext";
 import voiceImg from "../assets/voice.gif";
 import voice1Img from "../assets/voice assistant.jpg";
 
