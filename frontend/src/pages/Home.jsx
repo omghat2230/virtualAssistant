@@ -4,7 +4,7 @@ import axios from "axios";
 import { CiMenuFries } from "react-icons/ci";
 import { RxCross2 } from "react-icons/rx";
 import { UserDataContext } from "../context/UserContext";
-import voiceImg from "../assets/voice.gif";
+import voiceImg from "../assets/Voice.gif";
 import voice1Img from "../assets/voice assistant.jpg";
 
 // Lowercase and remove punctuation so "Jarvis." and "jarvis" match.
